@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Screenhots of the React Portfolio:
+
+<img width="1296" alt="portfolio1" src="https://user-images.githubusercontent.com/54870343/75950931-a4ab5600-5e78-11ea-90b9-4becf1e89fd7.png">
+
+<img width="1289" alt="portfolio2" src="https://user-images.githubusercontent.com/54870343/75950929-a4ab5600-5e78-11ea-9817-3e731845a4d6.png">
+
+<img width="1181" alt="portfolio3" src="https://user-images.githubusercontent.com/54870343/75950928-a412bf80-5e78-11ea-9e05-20fda182d781.png">
+
+<img width="1294" alt="portfolio4" src="https://user-images.githubusercontent.com/54870343/75950926-a2e19280-5e78-11ea-8222-4e66cfd14c1d.png">
+
+<img width="510" alt="portfolio5" src="https://user-images.githubusercontent.com/54870343/75950919-9f4e0b80-5e78-11ea-88f1-82c4d4b0f963.png">
 
 #### Available Scripts
 In the project directory, you can run:
