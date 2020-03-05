@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Screenhots of the React Portfolio:
+Screenshots of the React Portfolio:
 
 <img width="1296" alt="portfolio1" src="https://user-images.githubusercontent.com/54870343/75950931-a4ab5600-5e78-11ea-90b9-4becf1e89fd7.png">
 
