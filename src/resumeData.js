@@ -1,7 +1,7 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Anya Fareena",
     "role": "GSuite Solutions Developer",
+    "linkedinId":"https://www.linkedin.com/in/anya-fareena-330192109/",
     "Email":"anyafareena@gmail.com",
     "roleDescription": "Dynamic and motivated IT Professional with 8+ years of experience in Financial Organization, Results-driven and customer focused building user-friendly GSuite applications",
     "socialLinks":[
@@ -30,7 +30,7 @@ let resumeData = {
         "CompanyName":"Capital One",
         "specialization":"GSuite Products",
         "MonthOfLeaving":"Dec",
-        "YearOfLeaving":"2018",
+        "YearOfLeaving":"2017",
       },
 
     ],
@@ -48,24 +48,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"NoteTaker",
-        "imgurl":"images/portfolio/note.png"
+        "name":"NoteTaker",
+        "imgurl":"images/portfolio/note.png",
+        "url":"https://github.com/AnyaFareena/NoteTaker"
       },
       {
-        "name":"project2",
-        "description":"Quiz Journey",
-        "imgurl":"images/portfolio/quiztime.jpg"
+        "name":"Quiz Journey",
+        "imgurl":"images/portfolio/Quiz.png",
+        "url":"https://github.com/AnyaFareena/Project-2"
       },
       {
-        "name":"project3",
-        "description":"Day Planner",  
-        "imgurl":"images/portfolio/day.jpg"
+        "name":"Day Planner",
+        "imgurl":"images/portfolio/day.jpg",
+        "url":"https://github.com/AnyaFareena/DayPlanner"
       },
       {
-        "name":"project4",
-        "description":"Fitness Tracker",
-        "imgurl":"images/portfolio/fitness-tracker.jpg"
+        "name":"Fitness Tracker",
+        "imgurl":"images/portfolio/fitness-tracker.jpg",
+        "url":"https://github.com/AnyaFareena/Fitness-Tracker"
       }
     ],
     "testimonials":[
